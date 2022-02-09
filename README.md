@@ -11,4 +11,7 @@ Python Virtual Environment:
 - main.py is the core file to run.
 - SendMail.py is just a customized module. 
 - call.py is from twilio documentation.
+--------------------------------------------------------------
 
+put product url in `main.py`
+put email address in `SendMail.py`.
