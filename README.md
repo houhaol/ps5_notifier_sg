@@ -1,6 +1,7 @@
 # product-availability
-This is a python script that helps you to find the availability of a product on a specific url  
-used for singapore sony store for ps5 notification
+This is a python script that helps you to find the availability of a product on a specific url.  
+It will send u email when the product is avaiable. Used for ps5 notification in singapore sony store. 
+It also can be customized by many sites. 
 
 Python Virtual Environment:
 
